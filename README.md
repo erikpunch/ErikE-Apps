@@ -1,8 +1,9 @@
 # ErikE-Apps
 Android Apps I made:
 
-Stl Viewer
-Erik Calculator Inventory Edition
+*Stl Viewer  
+
+*Erik Calculator Inventory Edition
 
 
 These are android apps I made to:
